@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="enter_email">Please enter email</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="result_format">Operation: %1$s\nResult = %2$d</string>
+    <string name="calculator">Calculator</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="clear">Clear</string>
+    <string name="android_lab_menu">Android Lab Menu</string>
+    <string name="question_1_widgets">Question 1 (Widgets)</string>
+    <string name="question_2_login">Question 2 (Login)</string>
+    <string name="question_3_calculator">Question 3 (Calculator)</string>
+    <string name="question_4_popup_menu">Question 4: Popup Menu</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login2">Login</string>
+    <string name="open_login_dialog">Open Login Dialog</string>
+    <string name="login3">Login</string>
+    <string name="username2">Username</string>
+    <string name="password2">Password</string>
+    <string name="login4">Login</string>
+    <string name="question_5_login_dialog">Question 5: Login Dialog</string>
+    <string name="question_6_student_listview">Question 6: Student ListView</string>
+</resources>
